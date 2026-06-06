@@ -10,19 +10,23 @@ It is generated with [Stainless](https://www.stainless.com/).
 
 To use this package, install via Composer by adding the following to your application's `composer.json`:
 
+<!-- x-release-please-start-version -->
+
 ```json
 {
   "repositories": [
     {
       "type": "vcs",
-      "url": "git@github.com:stainless-sdks/bila-php.git"
+      "url": "git@github.com:bilasdk/php.git"
     }
   ],
   "require": {
-    "org-placeholder/bila": "dev-main"
+    "usebila/bila": "dev-main"
   }
 }
 ```
+
+<!-- x-release-please-end -->
 
 ## Usage
 
@@ -164,4 +168,4 @@ PHP 8.1.0 or higher.
 
 ## Contributing
 
-See [the contributing documentation](https://github.com/stainless-sdks/bila-php/tree/main/CONTRIBUTING.md).
+See [the contributing documentation](https://github.com/bilasdk/php/tree/main/CONTRIBUTING.md).
