@@ -27,7 +27,7 @@
     "sort-packages": true
   },
   "description": "Bila PHP SDK",
-  "name": "org-placeholder/bila",
+  "name": "usebila/bila",
   "require": {
     "php": "^8.1",
     "php-http/discovery": "^1",
