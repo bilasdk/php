@@ -1,4 +1,4 @@
 configured_endpoints: 28
-openapi_spec_url: https://storage.googleapis.com/stainless-sdk-openapi-specs/bila/bila-050bcf881beb73a32825255f8a9613af2e0f743266ea73e656ecc10fabf1ccbc.yml
+openapi_spec_url: https://storage.googleapis.com/stainless-sdk-openapi-specs/bila/bila-50c6671f415fa86269ab9da28bec701cfcb5bb86ca1a0780b02f035798d289e3.yml
 openapi_spec_hash: 3905bd7491c9fdbce522c69c8de6d612
-config_hash: 2464df1426825411c0ae50fec85ab66d
+config_hash: 281edaf756886afcf22b0d559b58b179
