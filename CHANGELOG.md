@@ -1,5 +1,13 @@
 # Changelog
 
+## 0.2.0 (2026-06-10)
+
+Full Changelog: [v0.1.0...v0.2.0](https://github.com/bilasdk/php/compare/v0.1.0...v0.2.0)
+
+### Features
+
+* **api:** manual updates ([aa5d9f9](https://github.com/bilasdk/php/commit/aa5d9f9d082a681751d5a0765243f2999d369678))
+
 ## 0.1.0 (2026-06-06)
 
 Full Changelog: [v0.0.1...v0.1.0](https://github.com/bilasdk/php/compare/v0.0.1...v0.1.0)
