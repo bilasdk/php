@@ -1,5 +1,13 @@
 # Changelog
 
+## 0.2.1 (2026-06-17)
+
+Full Changelog: [v0.2.0...v0.2.1](https://github.com/bilasdk/php/compare/v0.2.0...v0.2.1)
+
+### Documentation
+
+* add examples section to README ([da4fba4](https://github.com/bilasdk/php/commit/da4fba4b3db5a910b743050a8fe221ce8a2f9b66))
+
 ## 0.2.0 (2026-06-10)
 
 Full Changelog: [v0.1.0...v0.2.0](https://github.com/bilasdk/php/compare/v0.1.0...v0.2.0)
