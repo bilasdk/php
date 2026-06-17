@@ -35,6 +35,30 @@ $accounts = $client->accounts->list();
 var_dump($accounts->message);
 ```
 
+## Examples
+
+Runnable examples live in the [examples](./examples/) directory. Each file demonstrates a specific area of the API:
+
+| Example | Description |
+| ----------------------------------------------------------- | ---------------------------------------------------- |
+| [accounts.php](./examples/accounts.php) | Retrieve accounts, list accounts, and check balances |
+| [banks.php](./examples/banks.php) | List supported banks and financial institutions |
+| [collections.php](./examples/collections.php) | Collect payments via mobile money |
+| [resolve.php](./examples/resolve.php) | Verify bank account and mobile money details |
+| [transactions.php](./examples/transactions.php) | Retrieve and list transaction history |
+| [transfer-recipients.php](./examples/transfer-recipients.php) | Manage payout recipients |
+| [transfers.php](./examples/transfers.php) | Send payouts via bank transfer and mobile money |
+| [webhooks.php](./examples/webhooks.php) | Configure webhooks and manage delivery history |
+
+To run an example from this repository:
+
+```sh
+composer install
+php examples/accounts.php
+```
+
+Replace `accounts.php` with any example from the table above. Set your API key via the `BILA_API_KEY` environment variable or in the example file before running.
+
 ### Value Objects
 
 It is recommended to use the static `with` constructor `Dog::with(name: "Joey")`
