@@ -1,5 +1,18 @@
 # Changelog
 
+## 0.3.0 (2026-08-14)
+
+Full Changelog: [v0.2.1...v0.3.0](https://github.com/bilasdk/php/compare/v0.2.1...v0.3.0)
+
+### Features
+
+* **stlc:** configurable CI runner and private-production-repo support in workflow templates ([3e12eae](https://github.com/bilasdk/php/commit/3e12eae468862ba1a4249701602194f3ef69dd20))
+
+
+### Chores
+
+* **internal:** codegen related update ([b075700](https://github.com/bilasdk/php/commit/b075700a5e5733f7c52cbbb9c44f55af20ad867a))
+
 ## 0.2.1 (2026-06-17)
 
 Full Changelog: [v0.2.0...v0.2.1](https://github.com/bilasdk/php/compare/v0.2.0...v0.2.1)

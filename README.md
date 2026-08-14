@@ -11,7 +11,7 @@ It is generated with [Stainless](https://www.stainless.com/).
 <!-- x-release-please-start-version -->
 
 ```
-composer require "usebila/bila 0.2.1"
+composer require "usebila/bila 0.3.0"
 ```
 
 <!-- x-release-please-end -->
